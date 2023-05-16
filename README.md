@@ -1,5 +1,5 @@
 # employee-tracker
-by Daniella Ferrufino
+by Daniella Ferrufino ![Github licence](http://img.shields.io/badge/license-MIT-yellowgreen.svg)
 
 ## Technologies Used
 * MySQL
@@ -9,8 +9,10 @@ by Daniella Ferrufino
 * JavaScript
 
 ## Description
-This command-line application uses mySQL to manage a company's employee database. It also allows for adding employees, roles, departments and updating employees all from your CLI.
+This application manages employee data using this command line Content Management System (CMS) built with Node.js, Inquirer, and MySQL. It also allows for adding and viewing all employees, roles, departments and updating employees role all from your CLI.
 
 ## Installation
 
 ## Usage
+
+## License
