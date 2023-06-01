@@ -16,7 +16,7 @@ Install Inquirer version 8.2.4 as well as MySQL and the console table.
 
 ## Usage
 Open terminal in "lib" and run the command "node tasks". Then select a desired task and follow the Inquirer prompts, users are able to choose another task or exit the application. To exit, choose "EXIT" from task prompt list.
-[Video demonstration]
+[Video demonstration](https://github.com/daniferru/employee-tracker/assets/120329230/f3e4b72c-517f-4137-8596-ae24428bb46f)<br>
 <img src="/assets/images/employeetrack.PNG">
 
 ## License
